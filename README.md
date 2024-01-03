@@ -1,1 +1,1 @@
-This project is recreated from scratch inspired by the visuals of Danial Habib's project: "Playable Piano"
+This project is recreated from scratch inspired by the visuals from Danial Habib's project: "Playable Piano"
